@@ -1,6 +1,6 @@
 # Arthur Grigoletto Ribeiro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurgrigolettoribeiro/) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurgrigoletto@gmail.com) [![Portfólio de Dados](https://img.shields.io/badge/Portfólio%20de%20Dados-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/arthurgrigolettoribeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurgrigolettoribeiro/) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurgrigoletto@gmail.com)
 
 ## Profile
   
